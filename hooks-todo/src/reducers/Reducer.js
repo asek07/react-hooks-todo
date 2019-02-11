@@ -1,5 +1,4 @@
 import {useReducer} from 'react';
-import { init } from 'events';
 
 const initialState = {
   count: 0
